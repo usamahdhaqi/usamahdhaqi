@@ -36,9 +36,9 @@
 🧠 Machine Learning | 🤖 AI | 🌍 Web3  
 
 📫 **Contact Me:**  
-📧 Email: your.email@example.com  
-💬 LinkedIn: [Your LinkedIn](https://linkedin.com/in/usamahdhaqi)  
-🌎 Portfolio: [Your Website](https://usamahdhaqi.github.io)  
+📧 Email: usamahdhaqi@gmail.com  
+💬 LinkedIn: [usamahdhaqi](https://linkedin.com/in/usamahdhaqi)  
+🌎 Portfolio: [usamahdhaqi.github.io](https://usamahdhaqi.github.io)  
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
