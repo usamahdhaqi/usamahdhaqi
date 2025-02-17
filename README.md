@@ -40,6 +40,4 @@
 💬 LinkedIn: [usamahdhaqi](https://linkedin.com/in/usamahdhaqi)  
 🌎 Portfolio: [usamahdhaqi.github.io](https://usamahdhaqi.github.io)  
   
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/usamahdhaqi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
-
-
+![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/usamahdhaqi.github.io/visits)
