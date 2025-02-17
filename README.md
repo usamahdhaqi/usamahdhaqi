@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Anhar Sandova</h1>
-<h3 align="center">Back End Developer | Distro Hopper 🐧</h3>
+<h1 align="center">Hi.. 👋, I'm Usamah Dhiya'ul Haqi</h1>
+<h3 align="center">front End Developer | Distro Hopper 🐧</h3>
 
 
 
@@ -23,10 +23,14 @@
 
 ---
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anharmuk12v) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anharmuk12v) 
   
-
+🔧 **Tech Stack:**  
+💻 Python | JavaScript | TypeScript | C++  
+🌐 React | Node.js | Express | Next.js  
+🛢️ MySQL | MongoDB | Firebase  
+⚙️ Git | Docker | Linux 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
