@@ -27,18 +27,18 @@
 ⚙️ Git | Docker | Linux 
 
 📊 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamahdhaqi&show_icons=true&theme=tokyonight)  
 
 🔥 **GitHub Streak:**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usamahdhaqi&theme=tokyonight)  
 
 🎯 **Currently Learning:**  
 🧠 Machine Learning | 🤖 AI | 🌍 Web3  
 
 📫 **Contact Me:**  
 📧 Email: your.email@example.com  
-💬 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-🌎 Portfolio: [Your Website](https://yourwebsite.com)  
+💬 LinkedIn: [Your LinkedIn](https://linkedin.com/in/usamahdhaqi)  
+🌎 Portfolio: [Your Website](https://usamahdhaqi.github.io)  
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
