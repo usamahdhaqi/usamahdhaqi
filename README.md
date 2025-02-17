@@ -40,11 +40,6 @@
 💬 LinkedIn: [usamahdhaqi](https://linkedin.com/in/usamahdhaqi)  
 🌎 Portfolio: [usamahdhaqi.github.io](https://usamahdhaqi.github.io)  
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/usamahdhaqi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
-<p align="center"> 
-  Visitor count<br>
-  ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/usamahdhaqi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
-
-</p>
 
