@@ -17,13 +17,7 @@
 ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anharsaja&layout=compact&theme=dracula" />
-</p>
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anharmuk12v) 
-  
 🔧 **Tech Stack:**  
 💻 Python | JavaScript | TypeScript | C++  
 🌐 React | Node.js | Express | Next.js  
