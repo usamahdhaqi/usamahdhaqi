@@ -1,8 +1,6 @@
 <h1 align="center">Hi.. 👋, I'm Usamah Dhiya'ul Haqi ✨</h1>
 <h3 align="center">Junior Software Developer | Full-Stack Enthusiast 🚀</h3>
 
-
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
@@ -10,12 +8,10 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-
 ### 🐍 Contribution Snake
 ![Snake animation](https://github.com/usamahdhaqi/usamahdhaqi/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
 
 🛠 **Tech Stack:**  
 💻 Python | JavaScript | TypeScript | C++  
@@ -40,3 +36,15 @@
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/usamahdhaqi) 
   
+┌──(usamahdhaqi㉿github)-[~]
+└─$ whoami
+👤 Usamah Dhaqi | Software Developer
+
+┌──(usamahdhaqi㉿github)-[~]
+└─$ ls skills
+💻 Programming: Python, JavaScript, TypeScript
+🌎 Web Dev: React, Node.js, Express.js
+🔧 DevOps: Docker, Linux, CI/CD
+
+┌──(usamahdhaqi㉿github)-[~]
+└─$ echo "Welcome to my GitHub!"
