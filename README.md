@@ -1,5 +1,5 @@
 <h1 align="center">Hi.. 👋, I'm Usamah Dhiya'ul Haqi</h1>
-<h3 align="center">front End Developer | Distro Hopper 🐧</h3>
+<h3 align="center">Junior Software Developer | Full-Stack Enthusiast 🚀</h3>
 
 
 
