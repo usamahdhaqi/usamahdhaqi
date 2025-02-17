@@ -30,7 +30,7 @@
 
 📫 **Contact Me:**  
 📧 Email: usamahdhaqi@gmail.com  
-💬 LinkedIn: [usamahdhaqi](https://linkedin.com/in/usamahdhaqi)  
+💬 LinkedIn: [in/usamahdhaqi](https://linkedin.com/in/usamahdhaqi)  
 🌎 Portfolio: [usamahdhaqi.github.io](https://usamahdhaqi.github.io)  
   
 ## 💰 You can help me by Donating
