@@ -40,4 +40,6 @@
 💬 LinkedIn: [usamahdhaqi](https://linkedin.com/in/usamahdhaqi)  
 🌎 Portfolio: [usamahdhaqi.github.io](https://usamahdhaqi.github.io)  
   
-![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/usamahdhaqi.github.io/visits)
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anharmuk12v) 
+  
