@@ -1,4 +1,4 @@
-<h1 align="center">Hi.. 👋, I'm Usamah Dhiya'ul Haqi</h1>
+<h1 align="center">Hi.. 👋, I'm Usamah Dhiya'ul Haqi ✨</h1>
 <h3 align="center">Junior Software Developer | Full-Stack Enthusiast 🚀</h3>
 
 
@@ -18,7 +18,7 @@
 </div>
 
 
-🔧 **Tech Stack:**  
+🛠 **Tech Stack:**  
 💻 Python | JavaScript | TypeScript | C++  
 🌐 React | Node.js | Express | Next.js  
 🛢️ MySQL | MongoDB | Firebase  
