@@ -23,6 +23,20 @@
 🌐 React | Node.js | Express | Next.js  
 🛢️ MySQL | MongoDB | Firebase  
 ⚙️ Git | Docker | Linux 
+
+📊 **GitHub Stats:**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+
+🔥 **GitHub Streak:**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)  
+
+🎯 **Currently Learning:**  
+🧠 Machine Learning | 🤖 AI | 🌍 Web3  
+
+📫 **Contact Me:**  
+📧 Email: your.email@example.com  
+💬 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+🌎 Portfolio: [Your Website](https://yourwebsite.com)  
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
