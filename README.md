@@ -36,15 +36,3 @@
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/usamahdhaqi) 
   
-┌──(usamahdhaqi㉿github)-[~]
-└─$ whoami
-👤 Usamah Dhaqi | Software Developer
-
-┌──(usamahdhaqi㉿github)-[~]
-└─$ ls skills
-💻 Programming: Python, JavaScript, TypeScript
-🌎 Web Dev: React, Node.js, Express.js
-🔧 DevOps: Docker, Linux, CI/CD
-
-┌──(usamahdhaqi㉿github)-[~]
-└─$ echo "Welcome to my GitHub!"
