@@ -13,7 +13,6 @@
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🐍 Contribution Snake
 ![Snake animation](https://github.com/usamahdhaqi/usamahdhaqi/blob/output/github-contribution-grid-snake.svg)
 
 </div>
