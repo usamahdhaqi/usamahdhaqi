@@ -15,6 +15,8 @@
 
 ![Snake animation](https://github.com/usamahdhaqi/usamahdhaqi/blob/output/github-contribution-grid-snake.svg)
 
+![Live Clock](https://img.shields.io/endpoint?url=https://worldtimeapi.org/api/timezone/Asia/Jakarta)
+
 </div>
 
 🛠 **Tech Stack:**  
@@ -40,6 +42,8 @@
 ## 💰 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/usamahdhaqi) 
   
+![Visitor Count](https://komarev.com/ghpvc/?username=usamahdhaqi&color=blue)
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 </div>
