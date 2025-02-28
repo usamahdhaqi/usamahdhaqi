@@ -15,6 +15,7 @@
 
 ![Snake animation](https://github.com/usamahdhaqi/usamahdhaqi/blob/output/github-contribution-grid-snake.svg)
 
+<hr>
 </div>
 
 <div align="center">
@@ -25,6 +26,8 @@
   🔥 **GitHub Streak:**  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=usamahdhaqi&theme=tokyonight)  
 </div>
+
+<hr>
 
 🛠 **Tech Stack:**  
 💻 Python | JavaScript | TypeScript | C++  
